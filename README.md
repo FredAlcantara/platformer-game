@@ -1,2 +1,3 @@
 # platformer-game
- 2D Java platformer game - City engine
+
+2D platformer game developed using Java and CityEngine.
